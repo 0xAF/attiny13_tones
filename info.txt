@@ -1,0 +1,5 @@
+https://blog.podkalicki.com/attiny13-tone-generator/
+https://github.com/lpodkalicki/blog/blob/master/avr/attiny13/007_tone_generator
+
+https://blog.podkalicki.com/attiny13-two-tone-alarm/
+

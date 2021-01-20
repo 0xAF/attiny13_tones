@@ -1,0 +1,12 @@
+﻿---
+BasedOnStyle: WebKit
+#AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+BreakBeforeBraces: Linux
+IndentWidth: '2'
+PointerAlignment: Right
+SpaceAfterCStyleCast: 'true'
+TabWidth: '2'
+UseTab: Never
+
+...
