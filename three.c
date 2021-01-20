@@ -1,8 +1,6 @@
 /**
- * Copyright (c) 2016, Łukasz Marcin Podkalicki <lpodkalicki@gmail.com>
- * ATtiny13/015
- * Two-Tone Alarm.
- * --
+ * THE OUTPUT PIN IN THIS CODE IS PB1
+ *
  * Settings:
  *  FUSE_L=0x6A
  *  FUSE_H=0xFF
